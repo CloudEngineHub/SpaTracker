@@ -1,4 +1,4 @@
-[![arXiv](https://img.shields.io/badge/arXiv-SpaTracker-red)](https://arxiv.org/abs/2403.18913)
+[![arXiv](https://img.shields.io/badge/arXiv-SpaTracker-red)](https://arxiv.org/abs/2404.04319)
 
 
 # SpatialTracker: Tracking Any 2D Pixels in 3D Space
